@@ -12,8 +12,8 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-jayswal-4b849611b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roshanjayswal.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshan-jayswal-ab4aa382/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roshanjayswal-github-io.vercel.app)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshanjayswal15@gmail.com)
 [![Phone](https://img.shields.io/badge/+91--9004117603-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919004117603)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rjayswal-pythonista)
@@ -282,7 +282,7 @@ Deployed **Llama, Mistral, DeepSeek** on AWS EC2/vLLM/Docker; **QLoRA fine-tunin
 
 | Repository | Description |
 |---|---|
-| [**roshanjayswal.github.io**](https://roshanjayswal.github.io) | 🌐 Personal portfolio website |
+| [**roshanjayswal-github-io.vercel.app**](https://roshanjayswal-github-io.vercel.app) | 🌐 Personal portfolio website |
 | [**fullstack-course4**](https://github.com/rjayswal-pythonista/fullstack-course4) | HTML, CSS & JavaScript — Web Developers (Coursera) |
 | [**html_css**](https://github.com/rjayswal-pythonista/html_css) | HTML & CSS projects |
 
@@ -354,8 +354,8 @@ Deployed **Llama, Mistral, DeepSeek** on AWS EC2/vLLM/Docker; **QLoRA fine-tunin
 |:---:|:---|
 | 📧 | [roshanjayswal15@gmail.com](mailto:roshanjayswal15@gmail.com) |
 | 📱 | [+91 9004117603](tel:+919004117603) |
-| 💼 | [linkedin.com/in/roshan-jayswal-4b849611b](https://www.linkedin.com/in/roshan-jayswal-4b849611b) |
-| 🌐 | [roshanjayswal.github.io](https://roshanjayswal.github.io) |
+| 💼 | [linkedin.com/in/roshan-jayswal-ab4aa382](https://www.linkedin.com/in/roshan-jayswal-ab4aa382/) |
+| 🌐 | [roshanjayswal-github-io.vercel.app](https://roshanjayswal-github-io.vercel.app) |
 | 📍 | Mumbai, Maharashtra, India |
 
 </div>
