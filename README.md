@@ -219,6 +219,7 @@ Deployed **Llama, Mistral, DeepSeek** on AWS EC2/vLLM/Docker; **QLoRA fine-tunin
 | [**langchain-course**](https://github.com/rjayswal-pythonista/langchain-course) | Complete LangChain course — chains, agents, memory, RAG, tools, real-world projects | `Python` `LangChain` `OpenAI` |
 | [**langgraph-course**](https://github.com/rjayswal-pythonista/langgraph-course) | LangGraph — stateful agents, ReAct, Reflexion, RAG agents, agentic workflows | `Python` `LangGraph` |
 | [**mcp-crash-course**](https://github.com/rjayswal-pythonista/mcp-crash-course) | Model Context Protocol — FastMCP, Docker MCP, SSE, resources, prompts | `Python` `MCP` `FastMCP` |
+| [**claude-code-crash-course**](https://github.com/rjayswal-pythonista/claude-code-crash-course) | Claude Code crash course — custom commands, subagents, hooks, MCP, context engineering | `Python` `Claude Code` `MCP` |
 
 ### 🏗️ System Design
 
