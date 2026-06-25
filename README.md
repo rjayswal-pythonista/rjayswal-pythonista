@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=8%2B+Years+%7C+Kernel+Datapath+%E2%86%92+Zero+Trust+%E2%86%92+AI+Agents;C%2FC%2B%2B+Linux+Kernel+%7C+TCP%2FIP+%7C+TLS%2FmTLS+%7C+ZPA;LangChain+%7C+LangGraph+%7C+MCP+%7C+RAG+Pipelines;Ex-Zscaler+Staff+SDE+%7C+Ex-Cisco+SE-III;BITS+Pilani+ME+9.13+CGPA+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=750&lines=8%2B+Years+%7C+Zero+Trust+%7C+Distributed+Systems+%7C+AI+Agents;C+%7C+C%2B%2B+%7C+Python+%7C+Go;TCP%2FIP+%7C+TLS%2FmTLS+%7C+ZPA+%7C+Linux+Kernel;LangChain+%7C+LangGraph+%7C+MCP+%7C+RAG+Pipelines;Ex-Zscaler+Staff+SDE+%7C+Ex-Cisco+SE-III;BITS+Pilani+ME+9.13+CGPA+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 </div>
 
